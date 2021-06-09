@@ -55,7 +55,7 @@ ABOUT_TEXT = """
 
 ⭕️<b>📡 Hosted on :</b> <a href='https://heroku.com/'>Heroku</a>
 
-⭕️<b>👥 Group :</b> <a href='https://t.me/InFoJosTelGroup'>InFoJosTel Group</a>
+⭕️<b>👥 Group :</b> <a href='https://t.me/dengerousbots</a>
 
 """
 
