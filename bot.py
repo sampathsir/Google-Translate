@@ -53,9 +53,7 @@ ABOUT_TEXT = """
 
 ⭕️<b>📚 Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
-⭕️<b>📡 Hosted on :</b> <a href='https://heroku.com/'>Heroku</a>
-
-⭕️<b>👥 Group :</b> <a href='https://t.me/dengerousbots</a>
+⭕️<b>📡 SUPPORT:</b> <a href='https://t.me/dengerousbots/'>SUPPORT</a>
 
 """
 
@@ -71,19 +69,19 @@ To donate you can choose any of these options and send any amount that you wish.
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Sᴜᴏᴘᴏʀᴛ', url='https://t.me/InFoJosTelGroup'),
+        InlineKeyboardButton('Sᴜᴏᴘᴏʀᴛ', url='https://t.me/dengerousbots'),
         InlineKeyboardButton(' Mʏ ᴏᴡɴᴇʀ', url='https://t.me/ABHI_VILAN')
         ]]
     )
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Sᴜᴏᴘᴏʀᴛ', url='https://t.me/InFoJosTelGroup'),
+        InlineKeyboardButton('Sᴜᴏᴘᴏʀᴛ', url='https://t.me/dengerousbots'),
         InlineKeyboardButton(' Mʏ ᴏᴡɴᴇʀ', url='https://t.me/ABHI_VILAN')
         ]]
     )
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Sᴜᴏᴘᴏʀᴛ', url='https://t.me/InFoJosTelGroup'),
+        InlineKeyboardButton('Sᴜᴏᴘᴏʀᴛ', url='https://t.me/dengerousbots'),
         InlineKeyboardButton(' Mʏ ᴏᴡɴᴇʀ', url='https://t.me/ABHI_VILAN')
         ]]
     )
