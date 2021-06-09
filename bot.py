@@ -31,7 +31,7 @@ Send me a <b>word/sentence.</b> I will Translate it to you ✅
 
 Click /help for more details..
 
-<b>▷ Made With ❤ By @ZauteKm.</b>
+<b>▷ Made With ❤ By @ABHI_VILAN.</b>
 """
 HELP_TEXT = """
 Hey, 
@@ -44,7 +44,7 @@ It's not complicated 🤭
 <b><u>Languages :-</u></b>
 English, Tamil, Telugu, Hindi, Kannada, Malayalam, Urdu, Punjabi, Spanish, Korean, Japanese, Chinese, Greek, Italian, Vietnamese, Nepali
  
-<b>▷ Made With ❤ By @ZauteKm.</b>
+<b>▷ Made With ❤ By @ABHI_VILAN.</b>
 """
 ABOUT_TEXT = """
 ⭕️<b>🤖 My Name : Google Translator Bot</b>
@@ -57,7 +57,6 @@ ABOUT_TEXT = """
 
 ⭕️<b>👥 Group :</b> <a href='https://t.me/InFoJosTelGroup'>InFoJosTel Group</a>
 
-⭕️<b>📢 Channel :</b> <a href='https://t.me/InFoJosTel'>InFoJosTel</a>
 """
 
 DONATE_TEXT = """<b>Thanks for Clicking Donate Command.</b>
@@ -67,58 +66,25 @@ But running this bot on server costs money, If you like this bot and want it to 
 
 To donate you can choose any of these options and send any amount that you wish.
 
-<b>▷ Made With ❤ By @ZauteKm.</b>
+<b>▷ Made With ❤ By @ABHI_VILAN.</b>
 """
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('👥 Group', url='https://t.me/InFoJosTelGroup'),
-        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/InFoJosTel')
-        ],[
-        InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot'),
-        InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
-        InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl')
-        ],[
-        InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/c/ZauteKm')
+        InlineKeyboardButton('Sᴜᴏᴘᴏʀᴛ', url='https://t.me/InFoJosTelGroup'),
+        InlineKeyboardButton(' Mʏ ᴏᴡɴᴇʀ', url='https://t.me/ABHI_VILAN')
         ]]
     )
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('👥 Group', url='https://t.me/InFoJosTelGroup'),
-        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/InFoJosTel')
-        ],[
-        InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot'),
-        InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
-        InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl')
-        ],[
-        InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/c/ZauteKm')
+        InlineKeyboardButton('Sᴜᴏᴘᴏʀᴛ', url='https://t.me/InFoJosTelGroup'),
+        InlineKeyboardButton(' Mʏ ᴏᴡɴᴇʀ', url='https://t.me/ABHI_VILAN')
         ]]
     )
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('👥 Group', url='https://t.me/InFoJosTelGroup'),
-        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/InFoJosTel')
-        ],[
-        InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot'),
-        InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
-        InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl')
-        ],[
-        InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/c/ZauteKm')
-        ]]
-    )
-DONATE_BUTTONS = InlineKeyboardMarkup(
-        [[
-        InlineKeyboardButton('💸 PayPal', url='https://t.me/Zautebot'),
-        InlineKeyboardButton('UPI 🤑', url='https://t.me/zautebot')
-        ],[
-        InlineKeyboardButton('👥 Group', url='https://t.me/InFoJosTelGroup'),
-        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/InFoJosTel')
-        ],[
-        InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot'),
-        InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
-        InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl')
-        ],[
-        InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/c/ZauteKm')
+        InlineKeyboardButton('Sᴜᴏᴘᴏʀᴛ', url='https://t.me/InFoJosTelGroup'),
+        InlineKeyboardButton(' Mʏ ᴏᴡɴᴇʀ', url='https://t.me/ABHI_VILAN')
         ]]
     )
 
