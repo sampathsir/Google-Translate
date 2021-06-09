@@ -7,7 +7,7 @@ English,  Tamil,  Telugu,  Hindi,  Kannada,  Malayalam,  Urdu,  Punjabi,  Spanis
 
  <img src = "https://telegra.ph/file/73a6f6a32764f9795af3d.jpg">
 
-  <p align="center">▷ Made With ❤ By <b>Zaute Km</b> </p>
+  <p align="center">▷ Made With ❤ By <b>ABHI_VILAN Km</b> </p>
 
 <p align="center">
   <a href="https://www.python.org">
@@ -31,7 +31,7 @@ English,  Tamil,  Telugu,  Hindi,  Kannada,  Malayalam,  Urdu,  Punjabi,  Spanis
 ## Deploy to heroku 🗳
 Press the button Deploy to heroku and give the values for the Configs vars. 👇
 
-[![Deploy](https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/InFoJosTel/Google-Translate/tree/master)
+[![Deploy](https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/sampathsir/Google-Translate/tree/master)
 
 
 ### Credits
